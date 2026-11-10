@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="assets/builders-lab.svg" alt="Charan Velavan — Builder’s Lab. Exploring ideas. Engineering systems." width="100%" />
+  <a href="https://charanvelavan.github.io/CharanVelavan/">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="assets/builders-lab.svg" />
+      <img src="assets/builders-lab.gif" alt="Charan Velavan — Builder’s Lab. Exploring ideas. Engineering systems. Open the interactive portfolio." width="100%" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
+  <a href="https://charanvelavan.github.io/CharanVelavan/"><strong>Enter the interactive lab ↗</strong></a> &nbsp; / &nbsp;
   <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
   <a href="#on-the-workbench">On the workbench</a> &nbsp; / &nbsp;
   <a href="https://github.com/CharanVelavan?tab=repositories">All repositories</a>
