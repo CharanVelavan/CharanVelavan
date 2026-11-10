@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+  <title id="title">Charan Velavan — Builder’s Lab</title>
+  <desc id="desc">A graphite technical notebook with cyan orbital linework. Exploring ideas. Engineering systems.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#293640" stroke-width="0.7"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#10171e"/><stop offset="1" stop-color="#182630"/></linearGradient>
+    <clipPath id="round"><rect width="1280" height="440" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1280" height="440" fill="url(#fade)"/>
+    <rect x="760" width="520" height="440" fill="url(#grid)" opacity="0.55"/>
+    <path d="M56 58H106" stroke="#63dfd1" stroke-width="4"/>
+    <text x="56" y="103" fill="#63dfd1" font-family="ui-monospace, 'Courier New', monospace" font-size="17" letter-spacing="3">BUILDER’S LAB</text>
+    <text x="52" y="205" fill="#f3f1e9" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Charan Velavan</text>
+    <text x="56" y="260" fill="#b6c4ca" font-family="Arial, Helvetica, sans-serif" font-size="24">Exploring ideas. Engineering systems.</text>
+    <text x="56" y="376" fill="#8da3ad" font-family="ui-monospace, 'Courier New', monospace" font-size="16" letter-spacing="1">AI / SOFTWARE / SYSTEMS</text>
+    <g transform="translate(1032 216)" fill="none">
+      <circle r="136" stroke="#344d59"/>
+      <circle r="96" stroke="#344d59" stroke-dasharray="3 9"/>
+      <ellipse rx="163" ry="58" transform="rotate(-36)" stroke="#63dfd1" stroke-width="2"/>
+      <ellipse rx="163" ry="58" transform="rotate(36)" stroke="#7196a6" stroke-width="1.5"/>
+      <path d="M-25-34H25L46 0 25 34H-25L-46 0Z" fill="#1d3c43" stroke="#63dfd1" stroke-width="2"/>
+      <path d="M-17-10-28 0-17 10M17-10 28 0 17 10M7-17-7 17" stroke="#d6f7ef" stroke-width="2.5"/>
+      <circle cx="120" cy="-90" r="6" fill="#63dfd1"/>
+      <circle cx="-122" cy="-91" r="5" fill="#9fb8c4"/>
+      <path d="M-156 145H-112M-134 123V167M132-162H160M146-176V-148" stroke="#567582"/>
+    </g>
+    <rect x="0.5" y="0.5" width="1279" height="439" rx="18" fill="none" stroke="#34424b"/>
+  </g>
+</svg>
